@@ -1,6 +1,7 @@
 # Hi, I'm Pau!👋
 
 I’m an Information Technology student at Xavier University – Ateneo de Cagayan, passionate about tech, leadership, and creativity. My journey blends technical learning with community involvement — exploring programming, building systems, and leading initiatives as the President of the IT Student Body (XCITeS). I love sharing knowledge, organizing events, and inspiring fellow students to grow in both skill and spirit.
+
 ![johnpaulnob08's Stats](https://github-readme-stats.vercel.app/api?username=johnpaulnob08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
