@@ -18,3 +18,7 @@ I’m an Information Technology student at Xavier University – Ateneo de Cagay
 - 🏕️ Completed the 5-Day Change Leadership Camp 2024 — developed leadership, teamwork, and communication skills.
 - 🏕️ Completed the 5-Day Change Leadership Camp 2025 — advanced in adaptive leadership and community impact initiatives.
 - 💻 Currently working on my Final  API Project, a Student Organization Profiling System.
+
+## 😁 Fun Fact
+- I like to collect books.
+- I like to capture moments through photography.
